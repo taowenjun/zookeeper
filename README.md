@@ -1,5 +1,5 @@
 # zookeeper
-Demo of the usage of zookeeper
+功能：分布式共享锁
 逻辑：
 1、程序节点启动时到zk上注册一个“短暂+序号”的znode，并监听父节点
 2、获取父节点下的所有程序子节点，比较序号的大小
