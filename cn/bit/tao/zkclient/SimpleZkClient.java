@@ -1,4 +1,4 @@
-package cn.bit.edu.zkclient;
+package cn.bit.tao.zkclient;
 import java.io.IOException;
 import java.util.List;
 
