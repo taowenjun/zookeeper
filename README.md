@@ -1,6 +1,8 @@
 # zookeeper
 ZooKeeper的典型应用
 
+masterslave:master选举
+
 nameservice:命名服务
 
 pubsub:发布订阅
